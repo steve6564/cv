@@ -1,0 +1,44 @@
+/* body, html{
+    height: 100%;
+    margin: 0;
+}
+#background{
+    position: relative;
+    height: 100%;
+    overflow: hidden;
+}
+#myvideo{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+}
+.content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color: white; */
+/* } */
+.Video-title{
+    font-family:Arial ;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 300px;
+    line-height: 24px;
+
+}
+.video-stat{
+    font-family: Arial;
+    font-size: 14px;
+    color: rgb(96, 96,96);
+    margin-top: ;
+
+}
